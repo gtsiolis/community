@@ -13,7 +13,7 @@ To get started with our application process, please read about [Google Summer of
 Next, join our [Slack workspace](https://join.slack.com/t/localstack-community/shared_invite/zt-10v01mnte-tHiu0CTFdaGHYomID3WNcQ) and introduce yourself on the `#community` channel. Through the Slack workspace, you can get in touch with other users, contributors and mentors in the community. Before discussing the project idea, please make sure:
 
 - You have a good understanding of the technologies you will be working with, if you are selected to participate in GSoC.
-- You agree with our [Code of Conduct](https://github.com/localstack/.github/blob/main/CODE_OF_CONDUCT.md) and [Slack guidelines](https://github.com/localstack/.github/blob/main/SLACK_GUIDELINES.md).
+- You agree with our [Code of Conduct](https://github.com/localstack/.github/blob/main/CODE_OF_CONDUCT.md).
 - You agree to commit to the timeline of the program, write weekly blogs/reports on your project and engage with the wider LocalStack community.
 
 After a discussion with the mentors, you will be required to write a proposal for the project. GSoC guide provides a [writing a proposal guide](https://google.github.io/gsocguides/student/writing-a-proposal) for students. We have also provided our own [GSoC template](../GSOC-PROPOSAL-TEMPLATE.md) that you can use as a starting point. Share the proposal for review over Google Docs, HackMD, or any medium you prefer to share your proposal with us (without ideally making us download anything). After an initial review, you can submit your proposal to the [Google Summer of Code](https://summerofcode.withgoogle.com/) website once the applications are open.
